@@ -3,12 +3,11 @@
     margin: 0;
 }
 
-/* body ile kullanici yazilarimi seçmesin*/
 body{
     user-select: none;
 }
 
-/* header alani*/
+
 
 header{
     min-height: 100vh;
